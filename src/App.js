@@ -25,7 +25,7 @@ function App() {
 
 	return (
 		<div className='container'>
-			<h1>simplestReactTodo | MaDr</h1>
+			<h1>simplestReactTodo</h1>
 			<div className='input-wrapper'>
 				<input
 					type='text'
